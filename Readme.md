@@ -1,4 +1,3 @@
-```markdown
 # 🧪 Control of a Driven Qubit System Through Optimization Methods 📈
 
 ---
@@ -35,5 +34,3 @@ It was possible to develop a reproducible optimization protocol with good perfor
 
 ## 🔑 License
 This project is licensed under the ITA (Instituto Tecnológico de Aeronáutica) License.
-
-```
